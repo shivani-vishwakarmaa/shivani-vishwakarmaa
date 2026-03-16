@@ -45,7 +45,7 @@ Bachelor of Science in Data Science & Applications (Diploma Level)
   
 ## 📊 GitHub Stats
 
-![Shivani’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanya-tech&show_icons=true&theme=algolia)
+![Shivani’s GitHub Stats](![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-vishwakarmaa&show_icons=true&theme=default))
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
