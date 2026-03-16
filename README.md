@@ -1,5 +1,3 @@
- ---
-
 # Hi, I'm Shivani
 
 I’m a developer passionate about building practical solutions at the intersection of **frontend development, data analysis, and AI automation**. I enjoy transforming raw data into meaningful insights and creating tools that make workflows smarter and more efficient.
@@ -8,50 +6,37 @@ My work spans **interactive web applications**, **data analysis projects**, and 
 
 ## Education
 
-**Indian Institute of Technology Madras (IIT Madras)**
-Bachelor of Science in Data Science & Applications (Diploma Level)
+**Indian Institute of Technology Madras (IIT Madras)**  
+Bachelor of Science in Data Science & Applications (Diploma Level)  
 2024 – 2028
 
 ## What I Work On
 
-* Building modern **frontend applications** using HTML, CSS, and JavaScript
-* Performing **data analysis and visualization** using Python and SQL
-* Creating **AI-driven automation workflows** using APIs and automation tools
+* Building modern **frontend applications** using HTML, CSS, and JavaScript  
+* Performing **data analysis and visualization** using Python and SQL  
+* Creating **AI-driven automation workflows** using APIs and automation tools  
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, APIs
-**Data Analysis:** Python, SQL, Pandas, Matplotlib, Seaborn
-**Automation & AI:** n8n, Make.com, LLM APIs, Prompt Engineering
-**Tools:** Git, GitHub, Jupyter Notebook
+**Frontend:** HTML, CSS, JavaScript, APIs  
+**Data Analysis:** Python, SQL, Pandas, Matplotlib, Seaborn  
+**Automation & AI:** n8n, Make.com, LLM APIs, Prompt Engineering  
+**Tools:** Git, GitHub, Jupyter Notebook  
 
 ## Featured Work
 
-* **AI Chat Interface** – A modern chat UI connected to an LLM API
-* **Personal Productivity Dashboard** – A dashboard for tasks and productivity with API integrations
-* **Sales Data Analysis** – Exploratory analysis of business sales data using Python and SQL
-* **AI Automation Systems** – Intelligent workflows that automate data processing and decision-making
+* **AI Chat Interface** – A modern chat UI connected to an LLM API  
+* **Personal Productivity Dashboard** – A dashboard for tasks and productivity with API integrations  
+* **Sales Data Analysis** – Exploratory analysis of business sales data using Python and SQL  
+* **AI Automation Systems** – Intelligent workflows that automate data processing and decision-making  
 
+## Connect with Me
 
+- **LinkedIn**: [Shivani Vishwakarma](https://www.linkedin.com/in/shivani-vishwakarma-25137028a)  
+- **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)  
+- **Discord**: [Join me on Discord](https://discord.gg/gTNYRau4)  
 
-  ## 📫 Connect with Me
+## GitHub Stats
 
-- **LinkedIn**: [Shivani Vishwakarma](https://www.linkedin.com/in/shivani-vishwakarma-25137028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)
-- **Discord**: [Join me on Discord](https://discord.gg/gTNYRau4)
-
-
-
-  
-## 📊 GitHub Stats
-
-![Shivani’s GitHub Stats](![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-vishwakarmaa&show_icons=true&theme=default))
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-vishwakarmaa&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-vishwakarmaa&layout=compact&theme=default)
