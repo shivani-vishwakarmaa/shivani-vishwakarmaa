@@ -1,36 +1,45 @@
-## Hi👋, I'm Shivani Vishwakarma
-📝 New Blog Published!
-Binary Trees, Heaps, MST & Shortest Path Algorithms  
-🔗 Read here: [new blog](https://dsa-basic-things-to-know.hashnode.dev/)
+ ---
 
-**Data Analyst | Aspiring Data Scientist | Tech Writer**
+# Hi, I'm Shivani
 
-Welcome to my GitHub! I love combining data, Python, and real-world problem-solving to build meaningful projects — and I’m learning something new every day.
-## 💻 Tech Stack
+I’m a developer passionate about building practical solutions at the intersection of **frontend development, data analysis, and AI automation**. I enjoy transforming raw data into meaningful insights and creating tools that make workflows smarter and more efficient.
 
-| Area | Technologies |
-|---|---|
-| **Programming** | Python, SQL |
-| **Data / Analytics** | Pandas, NumPy, Seaborn, Matplotlib |
-| **Web** | Flask, HTML, CSS, Bootstrap |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebooks |
+My work spans **interactive web applications**, **data analysis projects**, and **AI-powered automation systems** designed to solve real-world problems.
 
-## 🚀 Featured Projects
+## Education
 
-- **Movie Data Analysis** – Exploratory data analysis on a movie dataset; trends, ratings, and visuals.  
-- **Parking App** – Web-based parking management system built with Flask.  
-- **IBM Python Project** – Showcases core Python skills: data manipulation, file I/O, and testing.
+**Indian Institute of Technology Madras (IIT Madras)**
+Bachelor of Science in Data Science & Applications (Diploma Level)
+2024 – 2028
 
-## I’m currently working on 🔭
-- A **Hospital managment App** built with Flask (college project) 
-- Data-analyses & visualizations using **Pandas** & **Matplotlib**  
-- Short-form AI-powered tools / automations (streamlit)
+## What I Work On
+
+* Building modern **frontend applications** using HTML, CSS, and JavaScript
+* Performing **data analysis and visualization** using Python and SQL
+* Creating **AI-driven automation workflows** using APIs and automation tools
+
+## Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, APIs
+**Data Analysis:** Python, SQL, Pandas, Matplotlib, Seaborn
+**Automation & AI:** n8n, Make.com, LLM APIs, Prompt Engineering
+**Tools:** Git, GitHub, Jupyter Notebook
+
+## Featured Work
+
+* **AI Chat Interface** – A modern chat UI connected to an LLM API
+* **Personal Productivity Dashboard** – A dashboard for tasks and productivity with API integrations
+* **Sales Data Analysis** – Exploratory analysis of business sales data using Python and SQL
+* **AI Automation Systems** – Intelligent workflows that automate data processing and decision-making
+
+
 
   ## 📫 Connect with Me
 
 - **LinkedIn**: [Shivani Vishwakarma](https://www.linkedin.com/in/shivani-vishwakarma-25137028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)
 - **Discord**: [Join me on Discord](https://discord.gg/gTNYRau4)
+
 
 
   
