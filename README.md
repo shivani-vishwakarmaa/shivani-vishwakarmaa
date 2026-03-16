@@ -34,7 +34,7 @@ Bachelor of Science in Data Science & Applications (Diploma Level)
 
 - **LinkedIn**: [Shivani Vishwakarma](https://www.linkedin.com/in/shivani-vishwakarma-25137028a)  
 - **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)  
-- **Discord**: [Join me on Discord](https://discord.gg/tur2BjpJ))  
+- **Discord**: [Join me on Discord](https://discord.gg/tur2BjpJ)  
 
 ## GitHub Stats
 
