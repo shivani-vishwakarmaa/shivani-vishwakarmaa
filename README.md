@@ -1,4 +1,4 @@
-# Hi, I'm Shivani 👋
+# Hi, I'm Shivani
 
 I'm a **Data Analyst** passionate about transforming raw data into meaningful insights and visualizations. I specialize in **exploratory data analysis, statistical analysis, and data-driven decision making** using Python, SQL, and visualization tools.
 
@@ -12,11 +12,11 @@ Bachelor of Science in Data Science & Applications (Diploma Level)
 
 ## What I Do
 
-* 📊 **Exploratory Data Analysis (EDA)** – Deep-dive analysis of datasets to uncover patterns and insights
-* 📈 **Data Visualization** – Creating compelling visualizations and dashboards using Python and BI tools
-* 🔍 **Statistical Analysis** – Applying statistical methods to validate hypotheses and derive insights
-* 💾 **Database Management** – Writing efficient SQL queries for data extraction and analysis
-* 🤖 **Data Automation** – Building workflows to automate data processing and reporting
+* Exploratory Data Analysis (EDA) – Deep-dive analysis of datasets to uncover patterns and insights
+* Data Visualization – Creating compelling visualizations and dashboards using Python and BI tools
+* Statistical Analysis – Applying statistical methods to validate hypotheses and derive insights
+* Database Management – Writing efficient SQL queries for data extraction and analysis
+* Data Automation – Building workflows to automate data processing and reporting
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@ Bachelor of Science in Data Science & Applications (Diploma Level)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-## ⭐ Featured Data Analysis Projects
+## Featured Data Analysis Projects
 
 * **Sales Data Analysis** – Comprehensive exploratory analysis of business sales data, uncovering revenue trends, customer segments, and sales patterns using Python, Pandas, and SQL
   
@@ -43,7 +43,7 @@ Bachelor of Science in Data Science & Applications (Diploma Level)
 - **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)  
 - **Discord**: [Join me on Discord](https://discord.gg/tur2BjpJ)
 
-# 📊 GitHub Stats:
+## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=shivani-vishwakarmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shivani-vishwakarmaa&theme=dark&hide_border=false)<br/>
