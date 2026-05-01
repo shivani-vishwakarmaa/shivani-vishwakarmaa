@@ -40,7 +40,10 @@ Bachelor of Science in Data Science & Applications (Diploma Level)
 - **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)  
 - **Discord**: [Join me on Discord](https://discord.gg/tur2BjpJ)  
 
-## GitHub Stats
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shivani-vishwakarmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shivani-vishwakarmaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivani-vishwakarmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-vishwakarmaa&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-vishwakarmaa&layout=compact&theme=default)
+---
+[![](https://komarev.com/ghpvc/?username=shivani-vishwakarmaa&icon=0&color=0)](https://visitcount.itsvg.in)
