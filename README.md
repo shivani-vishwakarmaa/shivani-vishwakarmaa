@@ -1,8 +1,8 @@
-# Hi, I'm Shivani
+# Hi, I'm Shivani 👋
 
-I’m a developer passionate about building practical solutions at the intersection of **frontend development, data analysis, and AI automation**. I enjoy transforming raw data into meaningful insights and creating tools that make workflows smarter and more efficient.
+I'm a **Data Analyst** passionate about transforming raw data into meaningful insights and visualizations. I specialize in **exploratory data analysis, statistical analysis, and data-driven decision making** using Python, SQL, and visualization tools.
 
-My work spans **interactive web applications**, **data analysis projects**, and **AI-powered automation systems** designed to solve real-world problems.
+My work focuses on **uncovering patterns in data**, creating compelling visualizations, and building dashboards that drive business intelligence and strategic decisions.
 
 ## Education
 
@@ -10,37 +10,41 @@ My work spans **interactive web applications**, **data analysis projects**, and 
 Bachelor of Science in Data Science & Applications (Diploma Level)  
 2024 – 2028
 
-## What I Work On
+## What I Do
 
-
-* Performing **data analysis and visualization** using Python and SQL  
+* 📊 **Exploratory Data Analysis (EDA)** – Deep-dive analysis of datasets to uncover patterns and insights
+* 📈 **Data Visualization** – Creating compelling visualizations and dashboards using Python and BI tools
+* 🔍 **Statistical Analysis** – Applying statistical methods to validate hypotheses and derive insights
+* 💾 **Database Management** – Writing efficient SQL queries for data extraction and analysis
+* 🤖 **Data Automation** – Building workflows to automate data processing and reporting
 
 ## Tech Stack
 
+**Core Data Analysis:** Python, SQL, Pandas, NumPy, Scikit-learn  
+**Visualization:** Matplotlib, Seaborn, Plotly  
+**Tools & Platforms:** Jupyter Notebook, Git, GitHub, Excel  
+**Data Processing:** Data Cleaning, Feature Engineering, Statistical Analysis
 
-**Data Analysis:** Python, SQL, Pandas, Matplotlib, Seaborn  
-**Automation & AI:** n8n, Make.com, LLM APIs, Prompt Engineering  
-**Tools:** Git, GitHub, Jupyter Notebook  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+## ⭐ Featured Data Analysis Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* **Sales Data Analysis** – Comprehensive exploratory analysis of business sales data, uncovering revenue trends, customer segments, and sales patterns using Python, Pandas, and SQL
+  
+* **Customer Behavior Analysis** – In-depth analysis of customer interactions and purchasing patterns to identify key business opportunities
 
+* **Market Trend Analysis** – Statistical analysis of market data with visualization dashboards showing industry trends and predictive insights
 
-
-
-## Featured Work
-
- 
-* **Sales Data Analysis** – Exploratory analysis of business sales data using Python and SQL  
-* **AI Automation Systems** – Intelligent workflows that automate data processing and decision-making  
+* **Financial Data Analytics** – Analysis of financial metrics and performance indicators to support business decisions
 
 ## Connect with Me
 
 - **LinkedIn**: [Shivani Vishwakarma](https://www.linkedin.com/in/shivani-vishwakarma-25137028a)  
 - **Blog**: [shivani192 (Hashnode)](https://hashnode.com/@shivani192)  
-- **Discord**: [Join me on Discord](https://discord.gg/tur2BjpJ)  
+- **Discord**: [Join me on Discord](https://discord.gg/tur2BjpJ)
 
-#  GitHub Stats:
+# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=shivani-vishwakarmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shivani-vishwakarmaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivani-vishwakarmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
