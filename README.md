@@ -8,7 +8,7 @@ My work focuses on **uncovering patterns in data**, creating compelling visualiz
 
 **Indian Institute of Technology Madras (IIT Madras)**  
 Bachelor of Science in Data Science & Applications (Diploma Level)  
-2024 – 2028
+2024 – Present
 
 ## What I Do
 
